@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sakhawat Hossain
-- 👀 I’m interested in learning things related to tech.
+- 👀 I’m open to learning things related to science and technology.
 - 🌱 I’m currently learning web development and designing.
 - 📫 To reach me, you can shoot me an email to s19hossain98@gmail.com
 
