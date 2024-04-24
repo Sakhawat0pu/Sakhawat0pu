@@ -6,9 +6,10 @@
 
 ## 🛠️ Technical Toolbox
 - **Languages:** Python, C/C++, JavaScript/TypeScript
-- **Web Technologies:** React JS, Node JS, Express, HTML, CSS
-- **Databases:** MySQL, MongoDB, Firebase
-- **Frameworks:** Bootstrap, Tailwind
+- **Web Technologies:** React JS, Next JS, Redux, Node JS, Express, HTML, CSS
+- **Databases:** MySQL, MongoDB, Firebase, Postgres
+- **Frameworks:** Bootstrap, Tailwind, MaterialUI, DaisyUI
+- **Object-relational Mapping:** Prisma, Django ORM
 - **Machine Learning:** NumPy, Pandas, Scikit-Learn, TensorFlow
 
 ## 📫 Let's Connect
