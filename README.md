@@ -95,6 +95,8 @@
 ## 📫 Let's Connect
 - **Email:** s19hossain98@gmail.com
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sakhawatChy)
+- **Twitter:** [Connect with me on Twitter](https://twitter.com/sakhawa79332099)
+- **Discord:** [Connect with me on Discord](https://discord.gg/804030830779301898)
 
 Excited about leveraging technology to solve real-world challenges. If you have projects, collaboration opportunities, or just want to discuss the latest tech trends, feel free to get in touch!
 
