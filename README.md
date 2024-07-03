@@ -14,6 +14,7 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
+<br />
 
 ## 👋 Hi, I am Sakhawat Hossain 
 
@@ -24,6 +25,7 @@
 - 🤖 Enthusiast in machine learning and AI, always eager to explore new models and techniques.
 - 🌟 Committed to continuous learning and staying updated with the latest industry trends.
 - 🌍 Seeking opportunities to contribute to impactful projects and collaborate with diverse teams.
+
 
 ## 🛠️ Technical Toolbox
 
@@ -73,29 +75,22 @@
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <br />
+<br />
       
 ## ⚡ Stats
 <br />
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://streak-stats.demolab.com/?user=Sakhawat0pu&theme=react&border=61dafb&hide_border=true" alt="Sakhawat0pu" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Sakhawat0pu&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhawat0pu&hide=c%23,powershell,Jupyter%20Notebook,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakhawat0pu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <p align="center">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Sakhawat0pu&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakhawat0pu&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+    <br/>
+    <br/>
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Sakhawat0pu&theme=darcula&hide_border=true&background=FFFFFF00">
+    <br>
+    <br>
+    <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakhawat0pu&theme=darcula&title_color=ba5f16&hide_border=true&hide=issues,contribs&bg_color=00000000" width="100%"/>
 </p>
+<br />
 
 ## 📫 Let's Connect
 - **Email:** s19hossain98@gmail.com
