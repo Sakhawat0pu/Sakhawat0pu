@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Sakhawat Hossain
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Sakhawat+Hossain....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 - 🌐 Aspiring Computer Science and Engineering student with a focus on Computational Data Analytics.
 - 💡 Passionate about exploring the intersections of technology, data, and innovation.
