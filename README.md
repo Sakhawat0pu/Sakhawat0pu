@@ -4,11 +4,11 @@
   </a>
 </h1>
 
-## 👋 This is Sakhawat Hossain 
+## 👋 Hi, I am Sakhawat Hossain 
 
-- 🌐 Aspiring Computer Science and Engineering student with a focus on Computational Data Analytics.
+- 🌐 Aspiring Computer Science and Engineering graduate from the University of Connecticut with a focus on Computational Data Analytics.
 - 💡 Passionate about exploring the intersections of technology, data, and innovation.
-- 🚀 Actively learning and applying web development and design skills.
+- 🚀 Actively learning and applying web development, DevOps, and machine learning skills.
 
 ## 🛠️ Technical Toolbox
 - **Languages:** Python, C/C++, JavaScript/TypeScript
