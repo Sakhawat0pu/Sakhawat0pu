@@ -23,8 +23,6 @@
 - **Object-relational Mapping:** Prisma, Django ORM
 - **Machine Learning:** NumPy, Pandas, Scikit-Learn, TensorFlow
 
-<hr>
-
 ## ⚡ Stats
 
 <p align=center>
