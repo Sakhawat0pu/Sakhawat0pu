@@ -9,6 +9,10 @@
 - 🌐 Aspiring Computer Science and Engineering graduate from the University of Connecticut with a focus on Computational Data Analytics.
 - 💡 Passionate about exploring the intersections of technology, data, and innovation.
 - 🚀 Actively learning and applying web development, DevOps, and machine learning skills.
+- 📈 Skilled in data analysis and visualization to drive informed decision-making.
+- 🤖 Enthusiast in machine learning and AI, always eager to explore new models and techniques.
+- 🌟 Committed to continuous learning and staying updated with the latest industry trends.
+- 🌍 Seeking opportunities to contribute to impactful projects and collaborate with diverse teams.
 
 ## 🛠️ Technical Toolbox
 - **Languages:** Python, C/C++, JavaScript/TypeScript
