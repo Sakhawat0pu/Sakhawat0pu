@@ -25,8 +25,7 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+## ⚡ Stats
 
 <p align=center>
   <div align=center>
