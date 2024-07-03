@@ -45,7 +45,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakhawat0pu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-
 ## 📫 Let's Connect
 - **Email:** s19hossain98@gmail.com
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sakhawatChy)
