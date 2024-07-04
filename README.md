@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sakhawat+Hossain;Full-stack+web+developer;Data+Analyst;Experienced+in+ML;Always+learing+new+things!&center=true&size=25&font=Fira%20Code&pause=1000&color=f75c7e">
   </a>
 </h1>
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/sakhawatchy/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -15,7 +15,6 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 <br />
-
 ## 👋 Hi, I am Sakhawat Hossain 
 
 - 🌐 Aspiring Computer Science and Engineering graduate from the University of Connecticut with a focus on Computational Data Analytics.
