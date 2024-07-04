@@ -93,12 +93,24 @@
 <br />
 
 ## 📫 Let's Connect
+
+Excited about leveraging technology to solve real-world challenges. If you have projects, collaboration opportunities, or just want to discuss the latest tech trends, feel free to get in touch!
 - **Email:** s19hossain98@gmail.com
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sakhawatChy)
 - **Twitter:** [Connect with me on Twitter](https://twitter.com/sakhawa79332099)
 - **Discord:** [Connect with me on Discord](https://discord.gg/804030830779301898)
 
-Excited about leveraging technology to solve real-world challenges. If you have projects, collaboration opportunities, or just want to discuss the latest tech trends, feel free to get in touch!
+<br>
+<br>
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/sakhawatChy?style=social)](https://www.twitter.com/sriharikapu)
+[![Linkedin Badge](https://img.shields.io/badge/-sakhawatChy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakhawatChy/)](https://www.linkedin.com/in/sakhawatChy)
+[![Discord Badge](https://img.shields.io/badge/-sakhawatChy-darkviolet?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/sakhawatChy/)](https://www.linkedin.com/in/sakhawatChy)
+[![Instagram Badge](https://img.shields.io/badge/-sakhawatChy-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sakhawat_chy/)](https://www.instagram.com/sakhawat_chy/)
+[![Facebook Badge](https://img.shields.io/badge/-sakhawatChy-blue?style=flat-square&logo=Facebook&logoColor=white&link=[https://www.facebook.com/officialsriharikapu](https://m.facebook.com/profile.php?mibextid=LQQJ4d))](https://m.facebook.com/profile.php?mibextid=LQQJ4d)
+
+
 
 
 <!---
