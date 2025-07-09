@@ -33,7 +33,7 @@
 - **Web Technologies:** React JS, Next JS, Redux, Node JS, Express, HTML, CSS
 - **Databases:** MySQL, MongoDB, Firebase, Postgres
 - **Frameworks:** Bootstrap, Tailwind, MaterialUI, DaisyUI, Shadcn
-- **Object-relational Mapping:** Prisma, Django ORM
+- **Object-relational Mapping:** Prisma, Django ORM, Mongoose (ODM)
 - **Machine Learning:** NumPy, Pandas, Scikit-Learn, TensorFlow
 
 <br />
